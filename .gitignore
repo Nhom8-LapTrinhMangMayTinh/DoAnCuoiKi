@@ -1,0 +1,7 @@
+out/
+dist/
+data/
+*.log
+.idea/
+nbproject/private/
+test-results.md
