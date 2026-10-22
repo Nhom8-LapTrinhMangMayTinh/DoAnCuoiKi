@@ -1,0 +1,56 @@
+2026-10-15 18:56:11 [INFO ] Da tao tai khoan quan tri 'admin' voi mat khau ngau nhien: FKMIJEUBnlQh
+2026-10-15 18:56:11 [INFO ] Thong tin dang nhap quan tri da luu tai data\admin-credentials.txt
+2026-10-15 18:56:12 [INFO ] === GroupChat Server dang chay tren cong 5555 (TLS) ===
+2026-10-15 18:56:12 [INFO ] Van tay chung chi SHA-256: 18:79:ED:FB:7D:2C:E0:B0:8E:19:40:F0:C5:84:5A:0B:A7:88:25:81:DF:83:FD:A4:B5:70:53:51:1A:1D:54:5F
+2026-10-15 18:56:12 [INFO ]   Client co the ket noi toi: 100.120.147.102:5555  (Tailscale Tunnel)
+2026-10-15 18:56:12 [INFO ]   Client co the ket noi toi: 10.8.0.2:5555  (WireGuard Tunnel)
+2026-10-15 18:56:12 [INFO ]   Client co the ket noi toi: 172.20.10.7:5555  (MediaTek Wi-Fi 6 MT7921 Wireless LAN Card)
+2026-10-15 18:56:35 [INFO ] Ket noi moi: /127.0.0.1:59182
+2026-10-15 18:56:35 [INFO ] Client dong ket noi (EOF): /127.0.0.1:59182
+2026-10-15 18:56:37 [INFO ] Ket noi moi: /127.0.0.1:59183
+2026-10-15 18:56:37 [INFO ] [AUDIT] LOGIN_FAIL actor=huy1 target=huy1 | sai ten hoac mat khau
+2026-10-15 18:56:37 [INFO ] Client dong ket noi (EOF): /127.0.0.1:59183
+2026-10-15 18:56:39 [INFO ] Ket noi moi: /127.0.0.1:59184
+2026-10-15 18:56:39 [INFO ] Client dong ket noi (EOF): /127.0.0.1:59184
+2026-10-15 18:56:40 [INFO ] Ket noi moi: /127.0.0.1:59185
+2026-10-15 18:56:40 [INFO ] [AUDIT] LOGIN_FAIL actor=huy1 target=huy1 | sai ten hoac mat khau
+2026-10-15 18:56:40 [INFO ] Client dong ket noi (EOF): /127.0.0.1:59185
+2026-10-15 18:56:43 [INFO ] Ket noi moi: /127.0.0.1:59186
+2026-10-15 18:56:43 [INFO ] [AUDIT] LOGIN_FAIL actor=huy1 target=huy1 | sai ten hoac mat khau
+2026-10-15 18:56:43 [INFO ] Client dong ket noi (EOF): /127.0.0.1:59186
+2026-10-15 18:57:10 [INFO ] Ket noi moi: /127.0.0.1:59189
+2026-10-15 18:57:10 [INFO ] [AUDIT] LOGIN_OK actor=admin target=admin
+2026-10-15 18:57:44 [INFO ] Ket noi moi: /127.0.0.1:59194
+2026-10-15 18:57:45 [INFO ] [AUDIT] REGISTER actor=huy123 target=huy123
+2026-10-15 18:57:45 [INFO ] Client dong ket noi (EOF): /127.0.0.1:59194
+2026-10-15 18:57:46 [INFO ] Ket noi moi: /127.0.0.1:59195
+2026-10-15 18:57:46 [INFO ] [AUDIT] LOGIN_OK actor=huy123 target=huy123
+2026-10-15 18:58:03 [INFO ] Ket noi moi: /127.0.0.1:59196
+2026-10-15 18:58:03 [INFO ] Client dong ket noi (EOF): /127.0.0.1:59196
+2026-10-15 18:58:07 [INFO ] Ket noi moi: /127.0.0.1:59197
+2026-10-15 18:58:07 [INFO ] [AUDIT] LOGIN_FAIL actor=trung target=trung | sai ten hoac mat khau
+2026-10-15 18:58:07 [INFO ] Client dong ket noi (EOF): /127.0.0.1:59197
+2026-10-15 18:58:08 [INFO ] Ket noi moi: /127.0.0.1:59198
+2026-10-15 18:58:08 [INFO ] [AUDIT] LOGIN_FAIL actor=trung target=trung | sai ten hoac mat khau
+2026-10-15 18:58:08 [INFO ] Client dong ket noi (EOF): /127.0.0.1:59198
+2026-10-15 18:58:08 [INFO ] Ket noi moi: /127.0.0.1:59199
+2026-10-15 18:58:08 [INFO ] [AUDIT] LOGIN_FAIL actor=trung target=trung | sai ten hoac mat khau
+2026-10-15 18:58:08 [INFO ] Client dong ket noi (EOF): /127.0.0.1:59199
+2026-10-15 18:58:09 [INFO ] Ket noi moi: /127.0.0.1:59200
+2026-10-15 18:58:09 [INFO ] Client dong ket noi (EOF): /127.0.0.1:59200
+2026-10-15 18:58:10 [INFO ] Ket noi moi: /127.0.0.1:59201
+2026-10-15 18:58:10 [INFO ] [AUDIT] LOGIN_FAIL actor=trung target=trung | sai ten hoac mat khau
+2026-10-15 18:58:10 [INFO ] Client dong ket noi (EOF): /127.0.0.1:59201
+2026-10-15 18:58:38 [INFO ] Ket noi moi: /127.0.0.1:59203
+2026-10-15 18:58:38 [INFO ] [AUDIT] REGISTER actor=nam target=nam
+2026-10-15 18:58:38 [INFO ] Client dong ket noi (EOF): /127.0.0.1:59203
+2026-10-15 18:58:38 [INFO ] Ket noi moi: /127.0.0.1:59204
+2026-10-15 18:58:38 [INFO ] [AUDIT] LOGIN_OK actor=nam target=nam
+2026-10-15 18:59:30 [INFO ] Ket noi moi: /127.0.0.1:59206
+2026-10-15 18:59:30 [INFO ] [AUDIT] REGISTER actor=trung target=trung
+2026-10-15 18:59:30 [INFO ] Client dong ket noi (EOF): /127.0.0.1:59206
+2026-10-15 18:59:30 [INFO ] Ket noi moi: /127.0.0.1:59207
+2026-10-15 18:59:30 [INFO ] [AUDIT] LOGIN_OK actor=trung target=trung
+2026-10-15 19:04:02 [INFO ] huy123 tao phong #1 'phong hoc' (co mat khau)
+2026-10-15 19:04:56 [INFO ] nam vao phong #1
+2026-10-15 19:10:22 [INFO ] admin vao phong #1
