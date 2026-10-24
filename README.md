@@ -53,11 +53,11 @@ Bảng dưới đây tổng hợp phạm vi công việc của từng thành vi�
 
 | MSSV | Họ và tên | Công việc đã thực hiện | Merge Requests |
 |---|---|---|---|
-| Chưa cập nhật | Huy | Server, xử lý đa luồng, quản lý phòng và tài khoản, trạng thái người dùng, tin nhắn thoại. | Cập nhật số PR đã merge |
+| Chưa cập nhật | Trần Ngọc Huy | Server, xử lý đa luồng, quản lý phòng và tài khoản, trạng thái người dùng, tin nhắn thoại. | Cập nhật số PR đã merge |
 | 2380602410 | Võ Đinh Quốc Trường | Giao thức ứng dụng, bảo mật, truyền tệp và gọi video 1-1/nhóm ở phía Client và Server. | Cập nhật số PR đã merge |
-| Chưa cập nhật | Nam | Cơ sở dữ liệu, xử lý tin nhắn, lịch sử, tìm kiếm, cảm xúc, trạng thái đã đọc và hồ sơ người dùng. | Cập nhật số PR đã merge |
-| Chưa cập nhật | Trung | Giao diện chat chính, đăng nhập, hội thoại, Dashboard quản trị và các controller phía Client. | Cập nhật số PR đã merge |
-| Chưa cập nhật | Hoàng | Thành phần giao diện phòng chat, người dùng, hồ sơ, emoji và các công việc kiểm thử được phân công. | Cập nhật số PR đã merge |
+| Chưa cập nhật | Nguyễn Quốc Nam | Cơ sở dữ liệu, xử lý tin nhắn, lịch sử, tìm kiếm, cảm xúc, trạng thái đã đọc và hồ sơ người dùng. | Cập nhật số PR đã merge |
+| Chưa cập nhật | Nguyễn Xuân Trung | Giao diện chat chính, đăng nhập, hội thoại, Dashboard quản trị và các controller phía Client. | Cập nhật số PR đã merge |
+| Chưa cập nhật | Bùi Khánh Hoàng | Thành phần giao diện phòng chat, người dùng, hồ sơ, emoji và các công việc kiểm thử được phân công. | Cập nhật số PR đã merge |
 
 
 ## 6. Quy trình quản lý mã nguồn
